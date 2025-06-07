@@ -1,2 +1,3 @@
 # Evolution-Simulator
-![Demo animation](assets/Center.gif)
+![Descriptive alt text](assets/Center.gif)
+
