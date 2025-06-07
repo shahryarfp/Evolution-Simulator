@@ -1,6 +1,8 @@
 # Evolutionary Agent Simulation
-![Descriptive alt text](Center.gif)
 A simple genetic-algorithm & neural-network based agent simulation on a 2D grid.
+
+![Descriptive alt text](Center.gif)
+![Descriptive alt text](Corner.gif)
 
 ## Key Concepts
 
@@ -25,6 +27,4 @@ A simple genetic-algorithm & neural-network based agent simulation on a 2D grid.
 - **Outputs**  
   - Runs for GENS generations; logs survivor counts.  
   - Saves per-generation GIFs & final survivor-count plot in `output/`.
-
-Feel free to tweak parameters (GRID_W/H, POP_SIZE, STEPS, GENS, HIDDEN_SIZE, etc.) at the top of the script.
 
