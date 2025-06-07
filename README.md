@@ -1,3 +1,3 @@
 # Evolution-Simulator
-![Descriptive alt text](assets/Center.gif)
+![Descriptive alt text](./Center.gif)
 
